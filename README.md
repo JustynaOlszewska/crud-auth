@@ -1,5 +1,7 @@
 # crud-auth
 
+I wrote part of the frontend in this project.
+
 Usage
 Install dependencies
 
